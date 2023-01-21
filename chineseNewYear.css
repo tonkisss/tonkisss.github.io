@@ -1,4 +1,9 @@
 body {
+  background-image: url(https://media.istockphoto.com/id/1402929066/vector/happy-chinese-new-year-2023-chinese-new-year-banner-with-circle-for-show-product.jpg?s=612x612&w=0&k=20&c=YRS9kaJZ7Nl8doSiHI2LNA8WvenSf_v9zpwO-EfhFlA=);
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center;
+
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
